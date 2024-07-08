@@ -26,7 +26,7 @@ Disclosure: This note is to acknowledge that I used external resources while wor
 
 **Please contact me for any questions or concerns.  Thank you!**
 
-Thank you, 
+Sincerely,
 
 Siobhan Curran
 
