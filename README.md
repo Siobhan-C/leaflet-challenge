@@ -24,7 +24,7 @@ Create a legend that will provide context for your map data.
 
 Disclosure: This note is to acknowledge that I used external resources while working on this project, such as AI/Chatbots, consultations with classmates and different tutors, YouTube tutorials, and other online materials. 
 
-** Please contact me for any questions or concerns.  Thank you! **
+**Please contact me for any questions or concerns.  Thank you!**
 
 Thank you, 
 
